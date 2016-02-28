@@ -22,4 +22,4 @@ Proof of concept for moving the static part of my websites into github.
 ## SHOW STOPPERS
 
 * How can I serve jekyll pages from a subfolder? It seems github overwrites the _config.yml
-* How can I add ssl to my custom domain name? Without cloudflare or similar.
+* How can I add ssl to my custom domain name? Without cloudflare, github enterprise or similar.
